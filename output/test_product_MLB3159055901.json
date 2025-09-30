@@ -23,7 +23,7 @@
       "Preto",
       "Colorido"
     ],
-    "llm_confidence": 1.0
+    "llm_confidence": 0.55
   },
   "price_analysis": {
     "listed_price": 209.99,
@@ -67,7 +67,7 @@
   "llm_review_analysis": {
     "total_analyzed": 3,
     "sentiment": {
-      "average_score": 0.35000000000000003,
+      "average_score": 0.19999999999999998,
       "distribution": {
         "positive": 2,
         "negative": 1
@@ -84,17 +84,24 @@
     },
     "complaints": {
       "frequency": {
-        "durability": 1
+        "durability": 1,
+        "quality": 1
       },
       "top_3": [
         [
           "durability",
           1
+        ],
+        [
+          "quality",
+          1
         ]
       ]
     },
     "keywords": {
-      "counterfeit": [],
+      "counterfeit": [
+        "não dura nada o produto"
+      ],
       "authentic": []
     },
     "issue_mentions": {
@@ -106,12 +113,12 @@
     },
     "severity": {
       "critical_count": 0,
-      "high_count": 1,
-      "suspicious_count": 0,
-      "suspicious_pct": 0.0
+      "high_count": 0,
+      "suspicious_count": 1,
+      "suspicious_pct": 33.33333333333333
     },
-    "llm_risk_score": 0.22374999999999998,
-    "average_confidence": 0.6833333333333332
+    "llm_risk_score": 0.3183333333333333,
+    "average_confidence": 0.56
   },
   "individual_reviews": [
     {
@@ -119,7 +126,7 @@
       "rating": 5,
       "text": "Ótimo produto.",
       "sentiment": "positive",
-      "sentiment_score": 0.85,
+      "sentiment_score": 0.6,
       "authenticity_signal": "unclear",
       "counterfeit_keywords": [],
       "authentic_keywords": [],
@@ -131,7 +138,7 @@
       "rating": 5,
       "text": "Bom+++++++++++++++.",
       "sentiment": "positive",
-      "sentiment_score": 0.8,
+      "sentiment_score": 0.6,
       "authenticity_signal": "unclear",
       "counterfeit_keywords": [],
       "authentic_keywords": [],
@@ -145,20 +152,22 @@
       "sentiment": "negative",
       "sentiment_score": -0.6,
       "authenticity_signal": "unclear",
-      "counterfeit_keywords": [],
+      "counterfeit_keywords": [
+        "não dura nada o produto"
+      ],
       "authentic_keywords": [],
-      "is_suspicious": false,
-      "severity": "high"
+      "is_suspicious": true,
+      "severity": "medium"
     }
   ],
   "review_weight": {
-    "final_weight": 0.8843573147647377,
-    "risk_score": 0.11564268523526233,
+    "final_weight": 0.8559823147647377,
+    "risk_score": 0.14401768523526226,
     "interpretation": "HIGHLY_TRUSTWORTHY",
     "confidence": "LOW",
     "statistical_component": 0.9306890210924825,
-    "llm_component": 0.77625,
-    "reasoning": "Combined statistical (0.93) and LLM (0.78); Weights: 70% statistical, 30% LLM; Coverage: 7% (sparse LLM coverage)"
+    "llm_component": 0.6816666666666666,
+    "reasoning": "Combined statistical (0.93) and LLM (0.68); Weights: 70% statistical, 30% LLM; Coverage: 7% (sparse LLM coverage)"
   },
   "seller": {
     "has_seller": true,

@@ -99,7 +99,9 @@ class LLMReviewAnalyzer:
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
-            ]
+            ],
+            response_format={"type": "json_object"},
+            reasoning_effort="minimal"
         )
         
         # Parse result (standard chat completions format)

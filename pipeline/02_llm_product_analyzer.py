@@ -91,7 +91,9 @@ Start your response with { and end with }."""
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt}
-                ]
+                ],
+                response_format={"type": "json_object"},
+                reasoning_effort="minimal"
             )
             
             print(f"   ✓ API call successful")
