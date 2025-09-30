@@ -34,22 +34,26 @@ class ProductStructure:
 class LLMProductAnalyzer:
     """Analyze product titles and descriptions using LLM"""
     
-    def __init__(self):
+    def __init__(self, verbose: bool = True):
         # Load API key with debugging
         api_key = os.getenv('OPENAI_API_KEY')
         
-        print(f"\n🔑 DEBUG - LLM Product Analyzer Init:")
-        print(f"   API Key loaded: {'Yes' if api_key else 'No'}")
-        if api_key:
-            print(f"   API Key prefix: {api_key[:15]}...")
-            print(f"   API Key length: {len(api_key)} chars")
-        else:
-            print(f"   ⚠️  WARNING: No API key found in environment!")
+        if verbose:
+            print(f"\n🔑 DEBUG - LLM Product Analyzer Init:")
+            print(f"   API Key loaded: {'Yes' if api_key else 'No'}")
+            if api_key:
+                print(f"   API Key prefix: {api_key[:15]}...")
+                print(f"   API Key length: {len(api_key)} chars")
+            else:
+                print(f"   ⚠️  WARNING: No API key found in environment!")
         
         self.client = OpenAI(api_key=api_key)
         self.model = "gpt-5-nano"  # Using VALIDATED working model
-        print(f"   Model: {self.model}")
-        print(f"   Client initialized: Yes")
+        self.verbose = verbose
+        
+        if verbose:
+            print(f"   Model: {self.model}")
+            print(f"   Client initialized: Yes")
         
     def analyze_product_structure(self, product: Dict) -> ProductStructure:
         """
@@ -78,11 +82,12 @@ Start your response with { and end with }."""
         
         user_prompt = self._build_product_analysis_prompt(titulo, descricao)
         
-        print(f"\n📡 DEBUG - Making API call:")
-        print(f"   Model: {self.model}")
-        print(f"   Endpoint: chat.completions.create()")
-        print(f"   Title length: {len(titulo)} chars")
-        print(f"   Description length: {len(descricao)} chars")
+        if self.verbose:
+            print(f"\n📡 DEBUG - Making API call:")
+            print(f"   Model: {self.model}")
+            print(f"   Endpoint: chat.completions.create()")
+            print(f"   Title length: {len(titulo)} chars")
+            print(f"   Description length: {len(descricao)} chars")
         
         try:
             # Call OpenAI with VALIDATED working format
@@ -96,7 +101,8 @@ Start your response with { and end with }."""
                 reasoning_effort="minimal"
             )
             
-            print(f"   ✓ API call successful")
+            if self.verbose:
+                print(f"   ✓ API call successful")
             
         except Exception as e:
             print(f"\n❌ API Call Failed:")
@@ -120,7 +126,9 @@ Start your response with { and end with }."""
         
         # Parse response (standard chat API format)
         result = json.loads(response.choices[0].message.content)
-        print(f"   ✓ Response parsed successfully")
+        
+        if self.verbose:
+            print(f"   ✓ Response parsed successfully")
         
         return ProductStructure(
             is_bundle=result['is_bundle'],

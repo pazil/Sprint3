@@ -10,6 +10,7 @@ from tqdm import tqdm
 import time
 import importlib.util
 import sys
+import gc  # Garbage collection for memory management
 
 def load_module(module_path, module_name):
     """Load a module from file path"""
@@ -60,12 +61,14 @@ class AntiPiracyPipeline:
         
         print("✅ All analyzers initialized\n")
     
-    def run_full_pipeline(self, limit: Optional[int] = None) -> List[Dict]:
+    def run_full_pipeline(self, limit: Optional[int] = None, checkpoint_every: int = 10, resume: bool = False) -> List[Dict]:
         """
-        Run complete pipeline on all products
+        Run complete pipeline on all products with incremental saving
         
         Args:
             limit: Optional limit for testing (process first N products only)
+            checkpoint_every: Save progress every N products (default: 10)
+            resume: If True, resume from last checkpoint (default: False)
             
         Returns:
             List of enriched product objects with all analyses
@@ -82,32 +85,72 @@ class AntiPiracyPipeline:
             produtos = produtos[:limit]
             print(f"\n⚠️  TESTING MODE: Processing first {limit} products only\n")
         
-        # Process each product
-        enriched_products = []
+        # Initialize incremental save file (JSONL format for memory efficiency)
+        jsonl_file = self.output_dir / "enriched_products_incremental.jsonl"
+        
+        # Check for resume
+        processed_ids = set()
+        if resume and jsonl_file.exists():
+            print(f"\n♻️  RESUME MODE: Loading existing progress...")
+            existing = self._load_from_jsonl(jsonl_file)
+            processed_ids = {p['product_id'] for p in existing}
+            print(f"   Found {len(processed_ids)} already processed products")
+            print(f"   Will skip these and continue from where we left off\n")
+        elif jsonl_file.exists() and not resume:
+            # Clear previous run if not resuming
+            jsonl_file.unlink()
+            print(f"\n🗑️  Cleared previous run\n")
+        
+        # Process each product with memory-efficient batching
+        batch = []
+        total_processed = 0
         
         print("\n" + "="*70)
-        print("STAGE 2: PRODUCT ANALYSIS")
+        print("STAGE 2: PRODUCT ANALYSIS (Memory-Optimized)")
+        print(f"💾 Checkpointing every {checkpoint_every} products")
         print("="*70)
         
         for idx, product in enumerate(tqdm(produtos, desc="Analyzing products")):
             try:
+                # Skip if already processed (resume mode)
+                if product['id'] in processed_ids:
+                    continue
+                
                 enriched = self._process_single_product(
                     product,
                     self.data_loader.review_index,
                     self.data_loader.seller_index
                 )
-                enriched_products.append(enriched)
+                batch.append(enriched)
+                total_processed += 1
                 
-                # Rate limiting (if needed)
-                # time.sleep(0.1)
+                # Save checkpoint every N products and clear memory
+                if len(batch) >= checkpoint_every:
+                    self._save_batch_to_jsonl(batch, jsonl_file)
+                    batch.clear()  # Clear memory
+                    
+                    # Aggressive memory cleanup
+                    self._cleanup_analyzers()
+                    gc.collect()  # Force garbage collection
+                    
+                    tqdm.write(f"💾 Checkpoint: Saved {total_processed} products, memory freed")
                 
             except Exception as e:
-                print(f"\n⚠️  Error processing product {product['id']}: {str(e)}")
+                tqdm.write(f"\n⚠️  Error processing product {product['id']}: {str(e)}")
                 continue
         
-        print(f"\n✅ Successfully processed {len(enriched_products)} products")
+        # Save any remaining products
+        if batch:
+            self._save_batch_to_jsonl(batch, jsonl_file)
+            batch.clear()
+            gc.collect()  # Final memory cleanup
         
-        # Save results
+        print(f"\n✅ Successfully processed {total_processed} products")
+        print(f"💾 Results saved incrementally to: {jsonl_file}")
+        
+        # Convert JSONL to final JSON format
+        print(f"\n📦 Creating final aggregated JSON file...")
+        enriched_products = self._load_from_jsonl(jsonl_file)
         self._save_results(enriched_products)
         
         return enriched_products
@@ -384,6 +427,39 @@ class AntiPiracyPipeline:
             'severity': review_analysis.severity
         }
     
+    def _save_batch_to_jsonl(self, batch: List[Dict], jsonl_file: Path):
+        """Append batch to JSONL file (memory efficient)"""
+        with open(jsonl_file, 'a', encoding='utf-8') as f:
+            for item in batch:
+                f.write(json.dumps(item, ensure_ascii=False) + '\n')
+    
+    def _cleanup_analyzers(self):
+        """
+        Aggressive cleanup: Recreate LLM analyzers to clear internal state
+        This prevents OpenAI client from accumulating connections/caches
+        """
+        # Close and recreate OpenAI clients
+        try:
+            if hasattr(self.product_llm.client, 'close'):
+                self.product_llm.client.close()
+            if hasattr(self.review_llm.client, 'close'):
+                self.review_llm.client.close()
+        except:
+            pass  # Ignore errors if close() not available
+        
+        # Recreate analyzers with fresh state (silent mode)
+        self.product_llm = LLMProductAnalyzer(verbose=False)
+        self.review_llm = LLMReviewAnalyzer(verbose=False)
+    
+    def _load_from_jsonl(self, jsonl_file: Path) -> List[Dict]:
+        """Load all products from JSONL file"""
+        products = []
+        with open(jsonl_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                if line.strip():
+                    products.append(json.loads(line))
+        return products
+    
     def _save_results(self, enriched_products: List[Dict]):
         """Save results to JSON file"""
         output_file = self.output_dir / "enriched_products_analysis.json"
@@ -391,7 +467,7 @@ class AntiPiracyPipeline:
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(enriched_products, f, indent=2, ensure_ascii=False)
         
-        print(f"\n💾 Results saved to: {output_file}")
+        print(f"💾 Final JSON saved to: {output_file}")
         
         # Also save a summary
         self._save_summary(enriched_products)

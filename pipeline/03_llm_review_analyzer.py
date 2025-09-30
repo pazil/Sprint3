@@ -59,9 +59,10 @@ class ReviewAnalysis:
 class LLMReviewAnalyzer:
     """Analyze individual reviews with LLM"""
     
-    def __init__(self):
+    def __init__(self, verbose: bool = False):
         self.client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
         self.model = "gpt-5-nano"  # Using VALIDATED working model
+        self.verbose = verbose
         
         # Page yield expectations for context
         self.page_yields = {

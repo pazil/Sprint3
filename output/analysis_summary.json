@@ -1,0 +1,10 @@
+{
+  "total_products_analyzed": 229,
+  "products_with_llm_review_analysis": 39,
+  "suspicious_by_price": 40,
+  "suspicious_by_reviews": 0,
+  "bimodal_distributions": 10,
+  "critical_reviews_found": 0,
+  "avg_review_weight": 0.6613524107269491,
+  "avg_price_deviation_pct": 36.64812366876496
+}
