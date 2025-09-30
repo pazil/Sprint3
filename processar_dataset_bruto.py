@@ -8,7 +8,6 @@ def limpar_valor_numerico(texto, tipo=float):
     """Extrai o primeiro valor numérico de uma string."""
     if texto is None:
         return None
-    
     texto_str = str(texto)
     match = re.search(r'(\d+[\.,]?\d*)', texto_str)
     if match:
@@ -19,20 +18,21 @@ def limpar_valor_numerico(texto, tipo=float):
             return None
     return None
 
-def limpar_texto_para_csv(texto): # <-- ### NOVA FUNÇÃO ###
+def limpar_texto_para_csv(texto):
     """Remove quebras de linha e excesso de espaços para evitar problemas no CSV."""
     if not isinstance(texto, str):
         return texto
-    # Substitui quebras de linha por um espaço e remove espaços duplos
     texto_limpo = texto.replace('\n', ' ').replace('\r', ' ')
     texto_limpo = re.sub(r'\s+', ' ', texto_limpo).strip()
     return texto_limpo
 
-def processar_produto(produto_bruto):
-    """Transforma um dicionário de produto bruto em um dicionário limpo e essencial."""
+def processar_produto(produto_bruto, mapa_vendedores):
+    """
+    Transforma um produto bruto em um dicionário limpo,
+    e o enriquece com dados do mapa de vendedores.
+    """
     dados_essenciais = {}
     
-    json_ld = produto_bruto.get('dados_brutos', {}).get('json_ld', {}) or {}
     melidata = produto_bruto.get('dados_brutos', {}).get('melidata', {}) or {}
     
     # --- Identificação Essencial ---
@@ -65,19 +65,31 @@ def processar_produto(produto_bruto):
     dados_essenciais['tipo_logistica'] = melidata.get('logistic_type')
     dados_essenciais['frete_gratis'] = melidata.get('free_shipping', False)
 
-    # --- Dados do Vendedor ---
-    dados_essenciais['vendedor_id'] = melidata.get('seller_id')
+    # --- Dados do Vendedor (Básicos) ---
+    vendedor_id = melidata.get('seller_id')
+    dados_essenciais['vendedor_id'] = vendedor_id
     dados_essenciais['vendedor_nome'] = melidata.get('seller_name')
     dados_essenciais['vendedor_reputacao'] = melidata.get('reputation_level')
     dados_essenciais['vendedor_lider'] = melidata.get('power_seller_status')
     dados_essenciais['id_loja_oficial'] = melidata.get('official_store_id')
 
+    # --- ENRIQUECIMENTO COM DADOS DA API DO VENDEDOR ---
+    if vendedor_id and mapa_vendedores.get(int(vendedor_id)):
+        dados_api_vendedor = mapa_vendedores[int(vendedor_id)]
+        dados_essenciais['vendedor_cidade'] = dados_api_vendedor.get('address', {}).get('city')
+        dados_essenciais['vendedor_estado'] = dados_api_vendedor.get('address', {}).get('state')
+        dados_essenciais['vendedor_total_transacoes'] = dados_api_vendedor.get('seller_reputation', {}).get('transactions', {}).get('total')
+    else:
+        dados_essenciais['vendedor_cidade'] = None
+        dados_essenciais['vendedor_estado'] = None
+        dados_essenciais['vendedor_total_transacoes'] = None
+        
     # --- Dados de Reputação Social ---
     dados_essenciais['rating_medio'] = produto_bruto.get('rating_medio')
     dados_essenciais['total_reviews'] = produto_bruto.get('total_reviews')
     dados_essenciais['distribuicao_reviews'] = produto_bruto.get('distribuicao_estrelas')
 
-    # --- Atributos Técnicos Consolidados ---
+    # --- Atributos Técnicos ---
     atributos = {}
     atributos['marca'] = produto_bruto.get('marca')
     atributos['linha'] = produto_bruto.get('linha')
@@ -96,18 +108,43 @@ def processar_produto(produto_bruto):
     atributos['rendimento_paginas'] = rendimento
 
     dados_essenciais['atributos'] = atributos
-    
-    # --- Descrição ---
-    # <-- MUDANÇA ###: Aplicando a função de limpeza na descrição
     dados_essenciais['descricao'] = limpar_texto_para_csv(descricao_texto)
-
-    # --- Origem do Dado ---
     dados_essenciais['query_origem'] = produto_bruto.get('query_origem', 'desconhecida')
 
     return dados_essenciais
 
+def carregar_dados_vendedores(pasta_datasets_brutos):
+    """Carrega os dados dos vendedores de todos os arquivos _vendedores.json."""
+    mapa_vendedores = {}
+    arquivos_vendedores = [f for f in os.listdir(pasta_datasets_brutos) if f.endswith('_vendedores.json')]
+    
+    if not arquivos_vendedores:
+        print("⚠️ Nenhum arquivo de vendedores (`_vendedores.json`) encontrado. O dataset não será enriquecido.")
+        return {}
+
+    print(f"\n🔍 Carregando dados de {len(arquivos_vendedores)} arquivos de vendedores...")
+    for nome_arquivo in arquivos_vendedores:
+        caminho_arquivo = os.path.join(pasta_datasets_brutos, nome_arquivo)
+        try:
+            with open(caminho_arquivo, 'r', encoding='utf-8') as f:
+                dados = json.load(f)
+            
+            # A estrutura esperada é {"dados_vendedores": [...]}
+            lista_vendedores = dados.get('dados_vendedores', [])
+            for vendedor in lista_vendedores:
+                if 'id' in vendedor:
+                    # Adiciona ao mapa, usando o ID como chave. Evita duplicatas.
+                    mapa_vendedores[vendedor['id']] = vendedor
+            print(f"  -> Arquivo '{nome_arquivo}' carregado: {len(lista_vendedores)} registros de vendedores.")
+        except Exception as e:
+            print(f"❌ ERRO ao carregar o arquivo de vendedores '{nome_arquivo}': {e}")
+            continue
+            
+    print(f"✅ Mapa de vendedores criado com {len(mapa_vendedores)} entradas únicas.")
+    return mapa_vendedores
+
 def main():
-    """Função principal para carregar, UNIR, processar e salvar datasets."""
+    """Função principal para carregar, UNIR, processar, ENRIQUECER e salvar datasets."""
     pasta_datasets_brutos = 'dataset_bruto'
     pasta_datasets_tratados = 'dataset_tratado'
 
@@ -119,19 +156,22 @@ def main():
         print(f"❌ ERRO: A pasta '{pasta_datasets_brutos}' não foi encontrada.")
         return
 
-    arquivos_encontrados = [
+    # --- PASSO 1: Carregar dados dos vendedores primeiro ---
+    mapa_vendedores = carregar_dados_vendedores(pasta_datasets_brutos)
+
+    # --- PASSO 2: Carregar e unir todos os arquivos de PRODUTOS ---
+    todos_os_produtos = []
+    arquivos_produtos = [
         f for f in os.listdir(pasta_datasets_brutos) 
         if f.endswith('.json') and 'dataset_javascript' in f
     ]
 
-    if not arquivos_encontrados:
-        print(f"⚠️ Nenhum arquivo de dataset bruto (contendo 'dataset_javascript') encontrado na pasta '{pasta_datasets_brutos}'.")
+    if not arquivos_produtos:
+        print(f"⚠️ Nenhum arquivo de dataset bruto (contendo 'dataset_javascript') encontrado.")
         return
 
-    print(f"🔍 Encontrados {len(arquivos_encontrados)} arquivos de dataset bruto para processar.")
-    
-    todos_os_produtos = []
-    for nome_arquivo in arquivos_encontrados:
+    print(f"\n🔍 Carregando dados de {len(arquivos_produtos)} arquivos de produtos...")
+    for nome_arquivo in arquivos_produtos:
         caminho_arquivo = os.path.join(pasta_datasets_brutos, nome_arquivo)
         try:
             with open(caminho_arquivo, 'r', encoding='utf-8') as f:
@@ -144,10 +184,9 @@ def main():
                 produto['query_origem'] = query_origem
             
             todos_os_produtos.extend(produtos_do_arquivo)
-            print(f"  -> Arquivo '{nome_arquivo}' carregado: {len(produtos_do_arquivo)} produtos (query: '{query_origem}')")
-
-        except (json.JSONDecodeError, Exception) as e:
-            print(f"❌ ERRO ao carregar ou processar o arquivo '{nome_arquivo}': {e}")
+            print(f"  -> Arquivo '{nome_arquivo}' carregado: {len(produtos_do_arquivo)} produtos.")
+        except Exception as e:
+            print(f"❌ ERRO ao carregar o arquivo de produto '{nome_arquivo}': {e}")
             continue
     
     if not todos_os_produtos:
@@ -155,29 +194,28 @@ def main():
         return
 
     print(f"\n✅ Total de {len(todos_os_produtos)} produtos brutos unidos.")
-    print(f"🔄 Processando e limpando todos os {len(todos_os_produtos)} produtos...")
-    dataset_limpo = [processar_produto(p) for p in todos_os_produtos]
-    print("✅ Processamento concluído.")
+    
+    # --- PASSO 3: Processar e ENRIQUECER a lista unificada de produtos ---
+    print(f"🔄 Processando, limpando e enriquecendo todos os {len(todos_os_produtos)} produtos...")
+    dataset_final = [processar_produto(p, mapa_vendedores) for p in todos_os_produtos]
+    print("✅ Processamento finalizado.")
 
+    # --- PASSO 4: Salvar o novo dataset consolidado e enriquecido ---
     timestamp_geral = datetime.now().strftime("%Y%m%d_%H%M%S")
-    nome_base_arquivo = f'dataset_consolidado_{timestamp_geral}'
+    nome_base_arquivo = f'dataset_enriquecido_{timestamp_geral}'
 
-    # Salvar em JSON limpo (o JSON pode manter as quebras de linha originais)
-    caminho_json_limpo = os.path.join(pasta_datasets_tratados, f'{nome_base_arquivo}.json')
-    with open(caminho_json_limpo, 'w', encoding='utf-8') as f:
-        # Para o JSON, vamos usar os dados sem a limpeza de texto para manter a formatação original
-        dataset_json = [processar_produto(p) for p in todos_os_produtos]
-        for item in dataset_json:
-            item['descricao'] = item.get('descricao', '').replace('\n', ' ').replace('\r', ' ') # Limpeza simples para JSON
-        json.dump(dataset_json, f, ensure_ascii=False, indent=2)
-    print(f"💾 Dataset consolidado salvo em JSON: '{caminho_json_limpo}'")
+    # Salvar em JSON
+    caminho_json_final = os.path.join(pasta_datasets_tratados, f'{nome_base_arquivo}.json')
+    with open(caminho_json_final, 'w', encoding='utf-8') as f:
+        json.dump(dataset_final, f, ensure_ascii=False, indent=2)
+    print(f"💾 Dataset enriquecido salvo em JSON: '{caminho_json_final}'")
 
-    # Salvar em CSV (usando o dataset_limpo com a descrição sanitizada)
+    # Salvar em CSV
     try:
-        df = pd.json_normalize(dataset_limpo, sep='_')
-        caminho_csv_limpo = os.path.join(pasta_datasets_tratados, f'{nome_base_arquivo}.csv')
-        df.to_csv(caminho_csv_limpo, index=False, encoding='utf-8-sig')
-        print(f"💾 Dataset consolidado salvo em CSV: '{caminho_csv_limpo}'")
+        df = pd.json_normalize(dataset_final, sep='_')
+        caminho_csv_final = os.path.join(pasta_datasets_tratados, f'{nome_base_arquivo}.csv')
+        df.to_csv(caminho_csv_final, index=False, encoding='utf-8-sig')
+        print(f"💾 Dataset enriquecido salvo em CSV: '{caminho_csv_final}'")
     except Exception as e:
         print(f"⚠️ Não foi possível salvar em CSV. Erro: {e}")
 
