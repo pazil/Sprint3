@@ -1,0 +1,33 @@
+---
+description: Documentation Generation Policy
+globs:
+alwaysApply: true
+---
+
+# Documentation Generation Policy
+
+## CRITICAL RULE: Do NOT Generate Unnecessary Documentation
+
+**NEVER proactively create documentation files (*.md, README, etc.) unless EXPLICITLY requested by the user.**
+
+### Rules:
+1. **NO automatic documentation generation** - Do not create markdown files, README files, or any documentation as a "helpful" side effect of completing a task
+2. **Only create docs when explicitly asked** - The user must specifically request documentation creation (e.g., "create a README", "document this API")
+3. **Avoid redundant files** - Do not create multiple files explaining the same thing (e.g., ANALYSIS.md, SUMMARY.md, OVERVIEW.md, REPORT.md for the same topic)
+4. **Prefer inline comments** - For code documentation, use inline comments and docstrings instead of separate markdown files
+5. **Ask before creating docs** - If you think documentation might be helpful, ASK first rather than creating it automatically
+
+### Examples of What NOT to Do:
+- ❌ Creating "PROJECT_STATUS.md" after making code changes
+- ❌ Generating "API_DOCUMENTATION.md" when building an API
+- ❌ Writing "ARCHITECTURE.md" when setting up a project
+- ❌ Making "CHANGELOG.md" or "SUMMARY.md" after each task
+- ❌ Creating multiple similar documentation files with different names
+
+### When Documentation IS Appropriate:
+- ✅ User explicitly says: "Create documentation for..."
+- ✅ User requests: "Write a README"
+- ✅ User asks: "Document this API/function/module"
+- ✅ Standard files like package.json, requirements.txt, etc. (these are NOT documentation)
+
+**Remember: Code should be self-documenting with good naming and inline comments. Separate documentation files are the exception, not the rule.**

@@ -1,0 +1,181 @@
+{
+  "product_id": "MLB3159055901",
+  "titulo": "Kit Cartuchos Originais Hp 664 Preto + Color 2136 2676 3776 | Frete grátis",
+  "link": "https://produto.mercadolivre.com.br/MLB-3159055901-kit-cartuchos-originais-hp-664-preto-color-2136-2676-3776-_JM",
+  "product_structure": {
+    "is_bundle": true,
+    "bundle_quantity": 2,
+    "item_breakdown": [
+      {
+        "model": "664",
+        "color": "Preto",
+        "quantity": 1
+      },
+      {
+        "model": "664",
+        "color": "Colorido",
+        "quantity": 1
+      }
+    ],
+    "model": "664",
+    "is_xl": false,
+    "colors": [
+      "Preto",
+      "Colorido"
+    ],
+    "llm_confidence": 1.0
+  },
+  "price_analysis": {
+    "listed_price": 209.99,
+    "price_per_unit": 104.995,
+    "suggested_retail": 72.4,
+    "deviation_pct": 45.020718232044196,
+    "price_risk_level": "PREMIUM",
+    "is_suspicious_price": false,
+    "notes": "Bundle of 2 cartridges"
+  },
+  "review_statistics": {
+    "has_reviews": true,
+    "total_reviews": 43,
+    "average_rating": 4.7,
+    "distribution": {
+      "5": 37,
+      "4": 1,
+      "3": 1,
+      "2": 1,
+      "1": 1
+    },
+    "distribution_pct": {
+      "5": 86.04651162790698,
+      "4": 2.3255813953488373,
+      "3": 2.3255813953488373,
+      "2": 2.3255813953488373,
+      "1": 2.3255813953488373
+    },
+    "positive_pct": 88.37209302325581,
+    "negative_pct": 4.651162790697675,
+    "is_bimodal": false,
+    "bimodal_score": 8.004326663061114,
+    "polarization_index": 0.8292239814946146,
+    "volume_confidence": 0.9,
+    "distribution_health": "healthy",
+    "statistical_trust_score": 0.9306890210924825,
+    "suspicious_patterns": [
+      "NORMAL_DISTRIBUTION"
+    ]
+  },
+  "llm_review_analysis": {
+    "total_analyzed": 3,
+    "sentiment": {
+      "average_score": 0.35000000000000003,
+      "distribution": {
+        "positive": 2,
+        "negative": 1
+      },
+      "distribution_pct": {
+        "positive": 66.66666666666666,
+        "negative": 33.33333333333333
+      }
+    },
+    "authenticity": {
+      "counterfeit_signals": 0,
+      "authentic_signals": 0,
+      "authenticity_ratio": 0.5
+    },
+    "complaints": {
+      "frequency": {
+        "durability": 1
+      },
+      "top_3": [
+        [
+          "durability",
+          1
+        ]
+      ]
+    },
+    "keywords": {
+      "counterfeit": [],
+      "authentic": []
+    },
+    "issue_mentions": {
+      "short_duration_pct": 33.33333333333333,
+      "printer_rejection_pct": 0.0,
+      "empty_cartridge_pct": 0.0,
+      "fake_claim_pct": 0.0,
+      "authentic_claim_pct": 0.0
+    },
+    "severity": {
+      "critical_count": 0,
+      "high_count": 1,
+      "suspicious_count": 0,
+      "suspicious_pct": 0.0
+    },
+    "llm_risk_score": 0.22374999999999998,
+    "average_confidence": 0.6833333333333332
+  },
+  "individual_reviews": [
+    {
+      "review_number": 1,
+      "rating": 5,
+      "text": "Ótimo produto.",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "authenticity_signal": "unclear",
+      "counterfeit_keywords": [],
+      "authentic_keywords": [],
+      "is_suspicious": false,
+      "severity": "none"
+    },
+    {
+      "review_number": 2,
+      "rating": 5,
+      "text": "Bom+++++++++++++++.",
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "authenticity_signal": "unclear",
+      "counterfeit_keywords": [],
+      "authentic_keywords": [],
+      "is_suspicious": false,
+      "severity": "none"
+    },
+    {
+      "review_number": 3,
+      "rating": 1,
+      "text": "Achei que não dura nada o produto.",
+      "sentiment": "negative",
+      "sentiment_score": -0.6,
+      "authenticity_signal": "unclear",
+      "counterfeit_keywords": [],
+      "authentic_keywords": [],
+      "is_suspicious": false,
+      "severity": "high"
+    }
+  ],
+  "review_weight": {
+    "final_weight": 0.8843573147647377,
+    "risk_score": 0.11564268523526233,
+    "interpretation": "HIGHLY_TRUSTWORTHY",
+    "confidence": "LOW",
+    "statistical_component": 0.9306890210924825,
+    "llm_component": 0.77625,
+    "reasoning": "Combined statistical (0.93) and LLM (0.78); Weights: 70% statistical, 30% LLM; Coverage: 7% (sparse LLM coverage)"
+  },
+  "seller": {
+    "has_seller": true,
+    "seller_id": 677845209,
+    "nickname": "YELLOWCELL ACESSORIOS",
+    "location": {
+      "city": "São Paulo",
+      "state": "BR-SP"
+    },
+    "user_type": "normal",
+    "reputation": {
+      "level_id": "5_green",
+      "power_seller_status": "gold",
+      "total_transactions": 11918
+    }
+  },
+  "image_url": "https://http2.mlstatic.com/D_NQ_NP_849621-MLA71290605934_082023-O-kit-cartuchos-originais-hp-664-preto-color-2136-2676-3776.webp",
+  "free_shipping": true,
+  "descricao": "Características do ProdutoObtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP.\n \nImprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.\nMédia baseada em ISO / IEC 24711 ou na metodologia de teste HP e impressão contínua. O desempenho real varia consideravelmente c"
+}
