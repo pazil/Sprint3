@@ -1,0 +1,2235 @@
+{
+    "dados_vendedores": [
+        {
+            "id": 2214462622,
+            "nickname": "ARSENALTEK",
+            "country_id": "BR",
+            "address": {
+                "city": "São José do Rio Preto",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/ARSENALTEK",
+            "seller_reputation": {
+                "level_id": "4_light_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 209
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 542823646,
+            "nickname": "UNIVERSODV",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/UNIVERSODV",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 175
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 487094855,
+            "nickname": "SARAIVA COMERCIO",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/SARAIVA+COMERCIO",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 23623
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 174280107,
+            "nickname": "SMCORP",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/SMCORP",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 13718
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1152243402,
+            "nickname": "ASZINFORMATICALTDA",
+            "country_id": "BR",
+            "address": {
+                "city": "Porto Alegre",
+                "state": "BR-RS"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/ASZINFORMATICALTDA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "gold",
+                "transactions": {
+                    "period": "historic",
+                    "total": 5821
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 184772390,
+            "nickname": "YUKIINFORMATICA",
+            "country_id": "BR",
+            "address": {
+                "city": "São Bernardo do Campo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/YUKIINFORMATICA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 1289
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 422385334,
+            "nickname": "BENTIM_DISTRIBUIDORA",
+            "country_id": "BR",
+            "address": {
+                "city": "Saquarema",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/BENTIM_DISTRIBUIDORA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 723
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 2629744344,
+            "nickname": "LOPACA",
+            "country_id": "BR",
+            "address": {
+                "city": "Rio de Janeiro",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/LOPACA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 16
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 69438105,
+            "nickname": "TECPRINTRP10",
+            "country_id": "BR",
+            "address": {
+                "city": "Ribeirão Preto",
+                "state": "BR-SP"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/TECPRINTRP10",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 212586
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 161167544,
+            "nickname": "ELÉTRON ELETRÔNICOS",
+            "country_id": "BR",
+            "address": {
+                "city": "Alvorada",
+                "state": "BR-RS"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/EL%C3%89TRON+ELETR%C3%94NICOS",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "gold",
+                "transactions": {
+                    "period": "historic",
+                    "total": 4434
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 93437035,
+            "nickname": "BITTEK",
+            "country_id": "BR",
+            "address": {
+                "city": "Buriticupu",
+                "state": "BR-MA"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/BITTEK",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 141
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1066510242,
+            "nickname": "ONLINE SUPRIMENTOS",
+            "country_id": "BR",
+            "address": {
+                "city": "Penápolis",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/ONLINE+SUPRIMENTOS",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 696
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 2430655155,
+            "nickname": "MEGA_LASER",
+            "country_id": "BR",
+            "address": {
+                "city": "Santo André",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MEGA_LASER",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 77
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 79722769,
+            "nickname": "BSMINFO",
+            "country_id": "BR",
+            "address": {
+                "city": "Porto Alegre",
+                "state": "BR-RS"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/BSMINFO",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 0
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1942736273,
+            "nickname": "TC20240813115050",
+            "country_id": "BR",
+            "address": {
+                "city": "Rio de Janeiro",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/TC20240813115050",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 9760
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 2045970654,
+            "nickname": "TT20241018173002",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/TT20241018173002",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 90
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 223171565,
+            "nickname": "MATOS SUPRIMENTOS",
+            "country_id": "BR",
+            "address": {
+                "city": "Niterói",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MATOS+SUPRIMENTOS",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 461
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 2105462345,
+            "nickname": "INKLASERINFO",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/INKLASERINFO",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "silver",
+                "transactions": {
+                    "period": "historic",
+                    "total": 585
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 180788269,
+            "nickname": "PRIMER PRINT",
+            "country_id": "BR",
+            "address": {
+                "city": "Goiânia",
+                "state": "BR-GO"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/PRIMER+PRINT",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 13639
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 267693143,
+            "nickname": "CASAPRINT PEOPLE",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/CASAPRINT+PEOPLE",
+            "seller_reputation": {
+                "level_id": "3_yellow",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 76
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 6337725,
+            "nickname": "MERCADAO-DA-INFORMATICA",
+            "country_id": "BR",
+            "address": {
+                "city": "Porto Alegre",
+                "state": "BR-RS"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MERCADAO-DA-INFORMATICA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 24497
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 187351324,
+            "nickname": "GOTTAMIXDISTRIBUIDORA",
+            "country_id": "BR",
+            "address": {
+                "city": "Colombo",
+                "state": "BR-PR"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/GOTTAMIXDISTRIBUIDORA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "silver",
+                "transactions": {
+                    "period": "historic",
+                    "total": 2886
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 179448342,
+            "nickname": "MILTON SOUSAS",
+            "country_id": "BR",
+            "address": {
+                "city": "Campinas",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MILTON+SOUSAS",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 1
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1629013117,
+            "nickname": "OFFPRICEECOMMERCE",
+            "country_id": "BR",
+            "address": {
+                "city": "Rio de Janeiro",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/OFFPRICEECOMMERCE",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "gold",
+                "transactions": {
+                    "period": "historic",
+                    "total": 1422
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 286344855,
+            "nickname": "TORPILE_STORE",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/TORPILE_STORE",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 147
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 73101132,
+            "nickname": "F.H.O",
+            "country_id": "BR",
+            "address": {
+                "city": "Ribeirão Preto",
+                "state": "BR-SP"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/F.H.O",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 29021
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1101709030,
+            "nickname": "CRSANCHEZ CARTUCHOS",
+            "country_id": "BR",
+            "address": {
+                "city": "Rio Claro",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/CRSANCHEZ+CARTUCHOS",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "silver",
+                "transactions": {
+                    "period": "historic",
+                    "total": 1503
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1301646661,
+            "nickname": "PARQUEINFORMATICA23",
+            "country_id": "BR",
+            "address": {
+                "city": "Rio de Janeiro",
+                "state": "BR-RJ"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/PARQUEINFORMATICA23",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 73437
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 2284430125,
+            "nickname": "TT20250223175915",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/TT20250223175915",
+            "seller_reputation": {
+                "level_id": "4_light_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 39
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1378663684,
+            "nickname": "DROGARIADROGARIA20230519121858",
+            "country_id": "BR",
+            "address": {
+                "city": "Santo André",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/DROGARIADROGARIA20230519121858",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 2
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 214710577,
+            "nickname": "CONECTALARBRASIL",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/CONECTALARBRASIL",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 32751
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 289044417,
+            "nickname": "ROSAMOUTINHO",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/ROSAMOUTINHO",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 0
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 677845209,
+            "nickname": "YELLOWCELL ACESSORIOS",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/YELLOWCELL+ACESSORIOS",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "gold",
+                "transactions": {
+                    "period": "historic",
+                    "total": 11970
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 688598168,
+            "nickname": "HTFUTURE",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/HTFUTURE",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 26
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 24098680,
+            "nickname": ".CAVUCA",
+            "country_id": "BR",
+            "address": {
+                "city": "São José do Rio Preto",
+                "state": "BR-SP"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/.CAVUCA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 1361
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 50605820,
+            "nickname": "ICESSÓRIOS",
+            "country_id": "BR",
+            "address": {
+                "city": "Várzea Paulista",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/ICESS%C3%93RIOS",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 0
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 330868728,
+            "nickname": "INFORTEC_BV",
+            "country_id": "BR",
+            "address": {
+                "city": "Boa Viagem",
+                "state": "BR-CE"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/INFORTEC_BV",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 0
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 80784552,
+            "nickname": "SARTORELI",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/SARTORELI",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 1
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1409500449,
+            "nickname": "GOMESHAROLDO20230628152423",
+            "country_id": "BR",
+            "address": {
+                "city": "São Gonçalo",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/GOMESHAROLDO20230628152423",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 510
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 207377216,
+            "nickname": "MERCADO ALL",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MERCADO+ALL",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "gold",
+                "transactions": {
+                    "period": "historic",
+                    "total": 10753
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 2215488428,
+            "nickname": "TOTALVENDAS",
+            "country_id": "BR",
+            "address": {
+                "city": "Maringá",
+                "state": "BR-PR"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/TOTALVENDAS",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 2645
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 78737203,
+            "nickname": "MCCOM INFORMATICA",
+            "country_id": "BR",
+            "address": {
+                "city": "Jundiaí",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MCCOM+INFORMATICA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 243
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 512931443,
+            "nickname": "LOJACENTRIC",
+            "country_id": "BR",
+            "address": {
+                "city": "Brusque",
+                "state": "BR-SC"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/LOJACENTRIC",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 9122
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 2710282398,
+            "nickname": "MLCOMERCIO7",
+            "country_id": "BR",
+            "address": {
+                "city": "Duque de Caxias",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MLCOMERCIO7",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 0
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 676710281,
+            "nickname": "OBERO INFORMATICA",
+            "country_id": "BR",
+            "address": {
+                "city": "Nilópolis",
+                "state": "BR-RJ"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/OBERO+INFORMATICA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 115736
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 234765985,
+            "nickname": "OLVELETRO",
+            "country_id": "BR",
+            "address": {
+                "city": "Brodowski",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/OLVELETRO",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 88
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 615369742,
+            "nickname": "SUPERLOJABRASIL",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/SUPERLOJABRASIL",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "gold",
+                "transactions": {
+                    "period": "historic",
+                    "total": 23192
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 567521007,
+            "nickname": "CASAPRINT SPEED",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/CASAPRINT+SPEED",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 17122
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1850917947,
+            "nickname": "SCOTCHTECNOLOGIA",
+            "country_id": "BR",
+            "address": {
+                "city": "Rio de Janeiro",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/SCOTCHTECNOLOGIA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 9456
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 456253729,
+            "nickname": "INFORMTICAPONTONET",
+            "country_id": "BR",
+            "address": {
+                "city": "Bebedouro",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/INFORMTICAPONTONET",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 10497
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 280783202,
+            "nickname": "WESPE.TEC",
+            "country_id": "BR",
+            "address": {
+                "city": "Belo Horizonte",
+                "state": "BR-MG"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/WESPE.TEC",
+            "seller_reputation": {
+                "level_id": "1_red",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 71
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 70168609,
+            "nickname": "MAXIMA_IMPRESSAO",
+            "country_id": "BR",
+            "address": {
+                "city": "Goianésia",
+                "state": "BR-GO"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MAXIMA_IMPRESSAO",
+            "seller_reputation": {
+                "level_id": "4_light_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 5
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 555489166,
+            "nickname": "TELEDATICACOMERCIODESUPRIME",
+            "country_id": "BR",
+            "address": {
+                "city": "Porto Alegre",
+                "state": "BR-RS"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/TELEDATICACOMERCIODESUPRIME",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "gold",
+                "transactions": {
+                    "period": "historic",
+                    "total": 10140
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1737442603,
+            "nickname": "ESHOP",
+            "country_id": "BR",
+            "address": {
+                "city": "Extrema",
+                "state": "BR-MG"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/ESHOP",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 498628
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 515753699,
+            "nickname": "INOVAINOVA20230324120804",
+            "country_id": "BR",
+            "address": {
+                "city": "Montes Claros",
+                "state": "BR-MG"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/INOVAINOVA20230324120804",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 0
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1489252140,
+            "nickname": "ONDDA DIGITAL",
+            "country_id": "BR",
+            "address": {
+                "city": "Rio de Janeiro",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/ONDDA+DIGITAL",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "gold",
+                "transactions": {
+                    "period": "historic",
+                    "total": 3904
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 35660674,
+            "nickname": "LKF.COMERCIO",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/LKF.COMERCIO",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 16874
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 135595657,
+            "nickname": "FERREIRANELSONFERREIRADASIL",
+            "country_id": "BR",
+            "address": {
+                "city": "Divinópolis",
+                "state": "BR-MG"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/FERREIRANELSONFERREIRADASIL",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 0
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 134674075,
+            "nickname": "WILLIANCHARLES54",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/WILLIANCHARLES54",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "silver",
+                "transactions": {
+                    "period": "historic",
+                    "total": 1522
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 127270513,
+            "nickname": "LOJA_VIIT",
+            "country_id": "BR",
+            "address": {
+                "city": "Ipatinga",
+                "state": "BR-MG"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/LOJA_VIIT",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 42847
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 2577289242,
+            "nickname": "MVCARTUCHOS10",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MVCARTUCHOS10",
+            "seller_reputation": {
+                "level_id": "4_light_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 8
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1708821044,
+            "nickname": "CLCA20240301194651",
+            "country_id": "BR",
+            "address": {
+                "city": "Rio de Janeiro",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/CLCA20240301194651",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "gold",
+                "transactions": {
+                    "period": "historic",
+                    "total": 2238
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1111051596,
+            "nickname": "SOFTERSOFTER20220422072458",
+            "country_id": "BR",
+            "address": {
+                "city": "Governador Valadares",
+                "state": "BR-MG"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/SOFTERSOFTER20220422072458",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 0
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 167787623,
+            "nickname": "MEGABYTE MAGAZINE",
+            "country_id": "BR",
+            "address": {
+                "city": "Lençóis Paulista",
+                "state": "BR-SP"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MEGABYTE+MAGAZINE",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 611243
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1736381249,
+            "nickname": "OBERODISTRIBUIDORA",
+            "country_id": "BR",
+            "address": {
+                "city": "Rio de Janeiro",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/OBERODISTRIBUIDORA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 6993
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 105578591,
+            "nickname": "MINIBARATOBRASIL",
+            "country_id": "BR",
+            "address": {
+                "city": "Araraquara",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MINIBARATOBRASIL",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 72
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1377207124,
+            "nickname": "VANMASTERCOMERCIO",
+            "country_id": "BR",
+            "address": {
+                "city": "Nilópolis",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/VANMASTERCOMERCIO",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 57541
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 2452336064,
+            "nickname": "LB20250520151055",
+            "country_id": "BR",
+            "address": {
+                "city": "Campinas",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/LB20250520151055",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 5
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 412499028,
+            "nickname": "INKLASERINFORMATICA",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/INKLASERINFORMATICA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 17633
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 139651704,
+            "nickname": "DRONE_COMPANHIA",
+            "country_id": "BR",
+            "address": {
+                "city": "Saquarema",
+                "state": "BR-RJ"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/DRONE_COMPANHIA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 1154
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 2460439869,
+            "nickname": "DL20250527161415",
+            "country_id": "BR",
+            "address": {
+                "city": "Rio de Janeiro",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/DL20250527161415",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 576
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1349329087,
+            "nickname": "JQTONER",
+            "country_id": "BR",
+            "address": {
+                "city": "Guarulhos",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/JQTONER",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "gold",
+                "transactions": {
+                    "period": "historic",
+                    "total": 4862
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 353464834,
+            "nickname": "MVCARTUCHOS8",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MVCARTUCHOS8",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 718
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1446833776,
+            "nickname": "ELETRÔNICOSSR20230810162400",
+            "country_id": "BR",
+            "address": {
+                "city": "Cascavel",
+                "state": "BR-PR"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/ELETR%C3%94NICOSSR20230810162400",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 4
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 37317839,
+            "nickname": "ER SOLUTIONS",
+            "country_id": "BR",
+            "address": {
+                "city": "Ribeirão Pires",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/ER+SOLUTIONS",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 131
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 147120177,
+            "nickname": "HORIZONTEPAPEIS",
+            "country_id": "BR",
+            "address": {
+                "city": "Goiânia",
+                "state": "BR-GO"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/HORIZONTEPAPEIS",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 3217
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 233053935,
+            "nickname": "CLAISLERREGINA",
+            "country_id": "BR",
+            "address": {
+                "city": "Santo André",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/CLAISLERREGINA",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 1
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 101262013,
+            "nickname": "CASAPRINT TELMA",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/CASAPRINT+TELMA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 301
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1129998629,
+            "nickname": "BIGIMPORTNA",
+            "country_id": "BR",
+            "address": {
+                "city": "Rio de Janeiro",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/BIGIMPORTNA",
+            "seller_reputation": {
+                "level_id": "1_red",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 22
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 2411211837,
+            "nickname": "M20250429082234",
+            "country_id": "BR",
+            "address": {
+                "city": "Maringá",
+                "state": "BR-PR"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/M20250429082234",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 540
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1979067391,
+            "nickname": "LVS_TECNOLOGIA",
+            "country_id": "BR",
+            "address": {
+                "city": "Barueri",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/LVS_TECNOLOGIA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 2749
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 68338259,
+            "nickname": "SUTECINFORMATICA",
+            "country_id": "BR",
+            "address": {
+                "city": "Bombinhas",
+                "state": "BR-SC"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/SUTECINFORMATICA",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 5
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1188276583,
+            "nickname": "BERLANDALUANA20220829111846",
+            "country_id": "BR",
+            "address": {
+                "city": "Quatro Barras",
+                "state": "BR-PR"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/BERLANDALUANA20220829111846",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 480
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1850595279,
+            "nickname": "LOJASMAFER",
+            "country_id": "BR",
+            "address": {
+                "city": "Capão Bonito",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/LOJASMAFER",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "silver",
+                "transactions": {
+                    "period": "historic",
+                    "total": 5257
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 97145061,
+            "nickname": "MAXTONER CARTUCHOS-JF",
+            "country_id": "BR",
+            "address": {
+                "city": "Juiz de Fora",
+                "state": "BR-MG"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MAXTONER+CARTUCHOS-JF",
+            "seller_reputation": {
+                "level_id": "1_red",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 30
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 244407541,
+            "nickname": "CRBLULTDA",
+            "country_id": "BR",
+            "address": {
+                "city": "Blumenau",
+                "state": "BR-SC"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/CRBLULTDA",
+            "seller_reputation": {
+                "level_id": "3_yellow",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 243
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 33379979,
+            "nickname": "NTI INFORMATICA",
+            "country_id": "BR",
+            "address": {
+                "city": "Nova Iguaçu",
+                "state": "BR-RJ"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/NTI+INFORMATICA",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 7517
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1154993778,
+            "nickname": "RASPAPISOSINTECART",
+            "country_id": "BR",
+            "address": {
+                "city": "Brasília",
+                "state": "BR-DF"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/RASPAPISOSINTECART",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 3
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 53038468,
+            "nickname": "PAPELARIAANTONINO",
+            "country_id": "BR",
+            "address": {
+                "city": "Campinas",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/PAPELARIAANTONINO",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "gold",
+                "transactions": {
+                    "period": "historic",
+                    "total": 4930
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 304626339,
+            "nickname": "GUILHERMEISABEL",
+            "country_id": "BR",
+            "address": {
+                "city": "Pacatuba",
+                "state": "BR-CE"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/GUILHERMEISABEL",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 0
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 650025516,
+            "nickname": "MAIARADEJESUSJULIAO",
+            "country_id": "BR",
+            "address": {
+                "city": "Aracaju",
+                "state": "BR-SE"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/MAIARADEJESUSJULIAO",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 1
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 246400154,
+            "nickname": "JULIANEDEAGUIARSILVA",
+            "country_id": "BR",
+            "address": {
+                "city": "Taboão da Serra",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/JULIANEDEAGUIARSILVA",
+            "seller_reputation": {
+                "level_id": null,
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 1
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 414580009,
+            "nickname": "TENDENCIASP",
+            "country_id": "BR",
+            "address": {
+                "city": "São Paulo",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/TENDENCIASP",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "silver",
+                "transactions": {
+                    "period": "historic",
+                    "total": 13001
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1641767749,
+            "nickname": "POINTSUPRY",
+            "country_id": "BR",
+            "address": {
+                "city": "Campinas",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/POINTSUPRY",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 2096
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 480263032,
+            "nickname": "Mercado Livre Eletronicos",
+            "country_id": "BR",
+            "address": {
+                "city": "Cajamar",
+                "state": "BR-SP"
+            },
+            "user_type": "brand",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/Mercado+Livre+Eletronicos",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "platinum",
+                "transactions": {
+                    "period": "historic",
+                    "total": 14001714
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 279402731,
+            "nickname": "SIAD8238404",
+            "country_id": "BR",
+            "address": {
+                "city": "Taubaté",
+                "state": "BR-SP"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/SIAD8238404",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": "silver",
+                "transactions": {
+                    "period": "historic",
+                    "total": 2324
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        },
+        {
+            "id": 1135979539,
+            "nickname": "SILVAJEINE20220603110637",
+            "country_id": "BR",
+            "address": {
+                "city": "Sarandi",
+                "state": "BR-PR"
+            },
+            "user_type": "normal",
+            "site_id": "MLB",
+            "permalink": "http://perfil.mercadolivre.com.br/SILVAJEINE20220603110637",
+            "seller_reputation": {
+                "level_id": "5_green",
+                "power_seller_status": null,
+                "transactions": {
+                    "period": "historic",
+                    "total": 52
+                }
+            },
+            "status": {
+                "site_status": "active"
+            }
+        }
+    ]
+}
