@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/paulo/OneDrive/%C3%81rea%20de%20Trabalho/sprint3/Front_End_Sprint3/mlruns/417059024917133184/3cc0b34555854ec6bdae359861d3b5dc/artifacts
+end_time: 1759276412663
+entry_point_name: ''
+experiment_id: '417059024917133184'
+lifecycle_stage: active
+run_id: 3cc0b34555854ec6bdae359861d3b5dc
+run_name: Extra Trees Classifier
+run_uuid: 3cc0b34555854ec6bdae359861d3b5dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759276412515
+status: 3
+tags: []
+user_id: paulo

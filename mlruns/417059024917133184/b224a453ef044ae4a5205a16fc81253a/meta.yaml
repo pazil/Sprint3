@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/paulo/OneDrive/%C3%81rea%20de%20Trabalho/sprint3/Front_End_Sprint3/mlruns/417059024917133184/b224a453ef044ae4a5205a16fc81253a/artifacts
+end_time: 1759276715976
+entry_point_name: ''
+experiment_id: '417059024917133184'
+lifecycle_stage: active
+run_id: b224a453ef044ae4a5205a16fc81253a
+run_name: Quadratic Discriminant Analysis
+run_uuid: b224a453ef044ae4a5205a16fc81253a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759276715854
+status: 3
+tags: []
+user_id: paulo

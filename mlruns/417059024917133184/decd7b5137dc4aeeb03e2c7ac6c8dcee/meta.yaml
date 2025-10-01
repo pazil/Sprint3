@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/paulo/OneDrive/%C3%81rea%20de%20Trabalho/sprint3/Front_End_Sprint3/mlruns/417059024917133184/decd7b5137dc4aeeb03e2c7ac6c8dcee/artifacts
+end_time: 1759276411742
+entry_point_name: ''
+experiment_id: '417059024917133184'
+lifecycle_stage: active
+run_id: decd7b5137dc4aeeb03e2c7ac6c8dcee
+run_name: Ada Boost Classifier
+run_uuid: decd7b5137dc4aeeb03e2c7ac6c8dcee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759276411621
+status: 3
+tags: []
+user_id: paulo

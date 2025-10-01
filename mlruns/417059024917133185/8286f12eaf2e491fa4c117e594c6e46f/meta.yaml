@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/paulo/OneDrive/%C3%81rea%20de%20Trabalho/sprint3/Front_End_Sprint3/mlruns/417059024917133185/8286f12eaf2e491fa4c117e594c6e46f/artifacts
+end_time: 1759277198438
+entry_point_name: ''
+experiment_id: '417059024917133185'
+lifecycle_stage: active
+run_id: 8286f12eaf2e491fa4c117e594c6e46f
+run_name: Naive Bayes
+run_uuid: 8286f12eaf2e491fa4c117e594c6e46f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759277198288
+status: 3
+tags: []
+user_id: paulo

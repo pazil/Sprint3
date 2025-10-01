@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/paulo/OneDrive/%C3%81rea%20de%20Trabalho/sprint3/Front_End_Sprint3/mlruns/417059024917133184/c8cee42a740f4662b72300a758d30275/artifacts
+end_time: 1759276733520
+entry_point_name: ''
+experiment_id: '417059024917133184'
+lifecycle_stage: active
+run_id: c8cee42a740f4662b72300a758d30275
+run_name: Light Gradient Boosting Machine
+run_uuid: c8cee42a740f4662b72300a758d30275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759276733138
+status: 3
+tags: []
+user_id: paulo

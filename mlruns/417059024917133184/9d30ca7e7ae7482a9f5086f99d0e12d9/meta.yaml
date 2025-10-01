@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/paulo/OneDrive/%C3%81rea%20de%20Trabalho/sprint3/Front_End_Sprint3/mlruns/417059024917133184/9d30ca7e7ae7482a9f5086f99d0e12d9/artifacts
+end_time: 1759276715551
+entry_point_name: ''
+experiment_id: '417059024917133184'
+lifecycle_stage: active
+run_id: 9d30ca7e7ae7482a9f5086f99d0e12d9
+run_name: SVM - Linear Kernel
+run_uuid: 9d30ca7e7ae7482a9f5086f99d0e12d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759276715406
+status: 3
+tags: []
+user_id: paulo

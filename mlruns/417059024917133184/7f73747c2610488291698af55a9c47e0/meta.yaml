@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/paulo/OneDrive/%C3%81rea%20de%20Trabalho/sprint3/Front_End_Sprint3/mlruns/417059024917133184/7f73747c2610488291698af55a9c47e0/artifacts
+end_time: 1759276413093
+entry_point_name: ''
+experiment_id: '417059024917133184'
+lifecycle_stage: active
+run_id: 7f73747c2610488291698af55a9c47e0
+run_name: Dummy Classifier
+run_uuid: 7f73747c2610488291698af55a9c47e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759276412969
+status: 3
+tags: []
+user_id: paulo
