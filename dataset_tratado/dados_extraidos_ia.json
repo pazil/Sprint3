@@ -1,0 +1,4532 @@
+[
+    {
+        "id_produto": "MLB36751629",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB37141763",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36751072",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36752265",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB48102366",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB43544566",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36768292",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39092873",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664, 664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36877280",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB44336841",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "CZ103AB, CZ104AB",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36779932",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36772792",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "662",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39028313",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36804595",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39126028",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36769417",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39028582",
+        "quantidade_por_anuncio": 5,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 3
+        },
+        "tipo_cartucho": "664xl, 664xl Color",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB55040393",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB22288344",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039342702",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB47914809",
+        "quantidade_por_anuncio": 4,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB47973601",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB53274520",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36751101",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB48686774",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39970611",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39019456",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39881749",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664,664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36783881",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039724604",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39021524",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB37079884",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664, 664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB24113436",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB52063715",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3159055901",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB44795245",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB40534204",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB55765129",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB38608218",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664, 664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36751317",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB41255685",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3163780006",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3947474697",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4134311367",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039757822",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36750870",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "74",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4147342351",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664 xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2030948541",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "662",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB48597775",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB41548143",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664 XL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB48782792",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1405822963",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39023549",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039723918",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB37371750",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5612240356",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "HP664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3675840479",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1433675811",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB46415259",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4111605801",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3157740009",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4487244006",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4148680817",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2030942294",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "662",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1518390221",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1405829753",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4487268860",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "HP 664XL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039380065",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2680267340",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3164077676",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4359115606",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5469674788",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4359178280",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3242674209",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB22638342",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3157559127",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1053584139",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3675827427",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1791326315",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4144892028",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3271651549",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4148554741",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 2
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3675763235",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3378881773",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36789684",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "CZ106AL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2794434829",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3675814891",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3675814531",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3634780421",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4077677949",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5412681728",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1617825546",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "F6V29AB",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4194997983",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4555604682",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB43888085",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB765616253",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3754472006",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4147471773",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4169549419",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3339122338",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4085683255",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5538221614",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB765616183",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5501403962",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4076324469",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1819988195",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2794421670",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1792883858",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB765610183",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB765610403",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1821019142",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB765610293",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3675840269",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4139071579",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4139071517",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1508002211",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2680107891",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "662",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB786661805",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "662",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039003439",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4147340035",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5532440984",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5664058356",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2794397754",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4085682507",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3612996709",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3612975423",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4127402837",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "F6V28AL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5716153790",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2791284092",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5033979996",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4183191093",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4183152747",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3964910125",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4127787491",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4147355289",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2605591305",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4086439427",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1538869726",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5419011668",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4165763845",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4165556343",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4165660381",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4165712869",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 2
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5025958984",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4147308609",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl, 664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5716117648",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5664069932",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5730479548",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4487316510",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5306117804",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3992518921",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4169549299",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3285605549",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5612566810",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039767628",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5209739018",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2040533964",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3197952401",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664, 664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3197920383",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "HP 664XL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3197964784",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB765612649",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB765612716",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 2
+        },
+        "tipo_cartucho": "664,664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5663266902",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5144836620",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3880385161",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5144862572",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664XL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5279275352",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4218655455",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl, 664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4093540545",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5241708630",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4036370493",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "F6V30AB",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1970465937",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1376680425",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2681282891",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5441210950",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664, 664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5663356766",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3726967364",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3718361366",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3351090051",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3726932320",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5196108056",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 2
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5196095114",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4129438801",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4129412975",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4129476159",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5008995342",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "F6V28AB",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4146473627",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "Usado"
+    },
+    {
+        "id_produto": "MLB4160435785",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4216344281",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3197876837",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5053578706",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3197964780",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664, 664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3197964908",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "HP 664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2678924916",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2681277215",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1869438215",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664, 664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3197838301",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2681289309",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3197812638",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "HP 664XL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2638094982",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039897752",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5631910952",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1111922546",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5371723204",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4487294400",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3726968904",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4166073523",
+        "quantidade_por_anuncio": 19,
+        "cores_detalhadas": {
+            "preto": 9,
+            "colorido": 9
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3198042140",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3197831597",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5269840666",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4436918910",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2017048001",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1524250232",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1524251520",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1624723584",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1570756073",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1624724568",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5593630894",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "Usado"
+    },
+    {
+        "id_produto": "MLB4056154817",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5171693038",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3946197461",
+        "quantidade_por_anuncio": 13,
+        "cores_detalhadas": {
+            "preto": 9,
+            "colorido": 4
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4440553950",
+        "quantidade_por_anuncio": 6,
+        "cores_detalhadas": {
+            "preto": 6,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2210653304",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5404191810",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4473684046",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "HP664xl",
+        "usado_seminovo": "Usado"
+    },
+    {
+        "id_produto": "MLB4068716195",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "Usado"
+    },
+    {
+        "id_produto": "MLB41632812",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "662xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1764767211",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB37201049",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39019456",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB22658653",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36785112",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36752162",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB48152766",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667, 667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB22546333",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB37141763",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039723882",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB22843608",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36783881",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039528208",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB43544566",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB38358712",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2040530384",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039973438",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB55040541",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36752265",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36751072",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36948933",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36794457",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "662",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB37822949",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "HP 667XL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39028313",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4186633839",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB55040388",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 2
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2038775193",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36786137",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36769417",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB47981210",
+        "quantidade_por_anuncio": 4,
+        "cores_detalhadas": {
+            "preto": 4,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2040561221",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36869988",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB47976494",
+        "quantidade_por_anuncio": 5,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 2
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB44959957",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039771914",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB37246120",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667XL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB37371750",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB48094196",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 2
+        },
+        "tipo_cartucho": "667XL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB48075604",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039726094",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39018524",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB40504426",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB38766141",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB51864990",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB55040397",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB22549449",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB43815192",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB22653316",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2038647119",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36803813",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB52653635",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39023091",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB39046709",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB49087253",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2041576888",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB48094140",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 2
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB48005324",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB38632061",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2038565193",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2038478907",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36840204",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36752167",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4148581055",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3167231142",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5211213074",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5661244330",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4040793555",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2038779645",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3634832101",
+        "quantidade_por_anuncio": 4,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3167810703",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5211225064",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB36804595",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3474975633",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1817130152",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB43758113",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3518347098",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039728654",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039429248",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3167724610",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2038778461",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5540889690",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039721092",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4076286277",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3801552378",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB41255685",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3430219717",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3638514793",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB22298133",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "980",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4075860599",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5453929274",
+        "quantidade_por_anuncio": 4,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 4
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2038776837",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3675814891",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4027432927",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3846681253",
+        "quantidade_por_anuncio": 4,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 2
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3634780421",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3167549680",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5008908956",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667, 667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5211238720",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3634819049",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2210764415",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3634793173",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3675866141",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3271642987",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2773150131",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB38326580",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "C6658AL |HP 58 | C6658 | 6658AL |C6658AB",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4077677949",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3634767189",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1919057611",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 2
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039490301",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2039747700",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3814276563",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2201524969",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3564972237",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1817130341",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4212965531",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5724835884",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 2
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3428097539",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1921889333",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1921900034",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB37186902",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5720410732",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1961117459",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4213004053",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4212878753",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3167632318",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3171439006",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1817028989",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1817041778",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1817037969",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4212846991",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3383720306",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 2
+        },
+        "tipo_cartucho": "3YM78AL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5538078316",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4161955527",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4487268838",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4086391761",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5419090478",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4487305140",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2774302832",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4086753593",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5209739002",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4139079419",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 2
+        },
+        "tipo_cartucho": "3YM80AB",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3926470593",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4212991253",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5525187424",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4018234777",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4359178280",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4509829356",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1817134824",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3351101335",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3638516533",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5365706584",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "3ym81al",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2038810807",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5009109596",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3821294327",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4086741115",
+        "quantidade_por_anuncio": 3,
+        "cores_detalhadas": {
+            "preto": 3,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4543875414",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2038778545",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3170922797",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5664018666",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4078820691",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4169187454",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 2
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4161929057",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4212915603",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5633670626",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2038778453",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5739509608",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5744200908",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5744312760",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "3YM78AB",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4578009138",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4161954903",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3992660125",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3992559165",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3992610723",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 2
+        },
+        "tipo_cartucho": "HP 667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3992621871",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5460373302",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3992660167",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "3YM81AL, 667XL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3992495307",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "3YM80AL, 667XL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3992673343",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "HP 667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3992507653",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "3YM79AL, 3YM78AL",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4169548931",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4167658023",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 2,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4162032957",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4162083993",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5124571186",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4093540545",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5703646364",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4127787491",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3879732187",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5241708630",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "664",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4219382839",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5663253694",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3359545083",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5663305362",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB37017630",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5196107948",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5507296566",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5507283870",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5507335932",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4127869851",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5580804646",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5724950022",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3861657683",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4162083987",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2670524664",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "HP 667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4898573778",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3970155803",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4161968395",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5656903886",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4161955531",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5663969394",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3675827591",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5371619056",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5616118962",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5057651264",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4928302914",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4170254139",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB3992495213",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2210317617",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB2206217631",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1890280759",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB1594647713",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 0
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4160435785",
+        "quantidade_por_anuncio": 2,
+        "cores_detalhadas": {
+            "preto": 1,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4583080340",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB5437325874",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 1
+        },
+        "tipo_cartucho": "667xl",
+        "usado_seminovo": "Usado"
+    },
+    {
+        "id_produto": "MLB5686400824",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 0
+        },
+        "tipo_cartucho": "",
+        "usado_seminovo": "N/A"
+    },
+    {
+        "id_produto": "MLB4146152933",
+        "quantidade_por_anuncio": 1,
+        "cores_detalhadas": {
+            "preto": 0,
+            "colorido": 0
+        },
+        "tipo_cartucho": "Vazio",
+        "usado_seminovo": "N/A"
+    }
+]

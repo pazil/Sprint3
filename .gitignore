@@ -128,14 +128,21 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Dataset files (large data files)
-*.csv
-*.json
-*.xlsx
-*.xls
+# Dataset files (large data files) - but allow important project files
+# *.csv
+# *.json
+# *.xlsx
+# *.xls
 *.parquet
 *.pickle
 *.pkl
+
+# Allow specific important files
+!dataset_tratado/*.csv
+!dataset_tratado/*.json
+!fornecidos_pela_hp/*.csv
+!fornecidos_pela_hp/*.xlsx
+!requirements.txt
 
 # Model files
 *.model
